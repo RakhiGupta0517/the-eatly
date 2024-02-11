@@ -1,0 +1,40 @@
+.footer{
+    display: flex;
+    flex-direction: row;
+   /* background-color: yellowgreen; */
+   height: 7vh;
+   background-color:rgba(238, 238, 128, 0.781);
+   
+      
+    }
+    .footer-left{
+      width: 70%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 15px;
+      font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+    }
+    .footer-right{
+      display: flex;
+      width: 30%;
+      font-size: 15px;
+      justify-content: center;
+      align-items: center;
+      font-weight: 800;
+      /* color: white; */
+
+    }
+    .social{
+      font-size: 30px;
+      color:rgba(0, 132, 255, 0.924);
+     margin: 10px;
+     
+      
+    }
+
+
+
+  

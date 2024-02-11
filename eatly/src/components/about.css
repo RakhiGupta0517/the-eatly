@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Bebas+Neue&family=Poppins:ital,wght@1,300&family=Ubuntu:wght@500&display=swap');
+
+.section1{
+    font-size: 50px;
+    /* font-family:'Times New Roman', Times, serif; */
+    /* font-family: 'Bebas Neue', sans-serif; */
+    font-family: 'Anton', sans-serif;
+    max-width: 70%;
+    margin: auto;
+    text-align: left;
+    font-weight: 800;
+    margin-top: 50px;
+ 
+    
+}
+.black{
+    color: black;
+    margin-right: 10px;
+}
+.red{
+    color: maroon;
+}
+.section2{
+    /* max-width: 300px; */
+    /* /* margin: auto; */
+    margin-top: 20px;
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.596);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family: 'Ubuntu', sans-serif; */
+}
+.first{
+    font-size: 35px;
+    font-style: italic;
+    font-weight: bolder;
+    color: rgba(0, 0, 0, 0.808);
+    text-align: center;
+}
+.second{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.589)
+}
+.section3{
+    max-width: 60%;
+    margin: auto;
+    margin-top: 30px;
+}
+.section4{
+ margin-top: 30px;
+ color: rgb(56, 144, 170);
+ font-style: italic;
+ text-align: center;
+ font-size: 30px;
+}
+.section5{
+    background-color: rgba(128, 128, 128, 0.27);
+
+}
+
+.sec5{
+    display: flex;
+    max-width: 60%;
+    margin: auto;
+    /* height: 400px; */
+    margin-top: 30px;
+    justify-content: center;
+    align-items: center;
+
+    
+    
+}
+.thumbnail img{
+    width: 278px;
+    margin-right: 20px;
+    border: 2px solid gray;
+    border-radius: 15px;
+    
+}
+.paras{
+    padding: 40px 60px;
+
+}
+.text-big{
+    font-size: 30px;
+    color:rgb(150, 7, 31);
+    font-weight: bolder;
+    font-style: oblique
+}
+.text-small{
+    font-size: 20px;
+    color: rgba(0, 0, 0, 0.767)
+}

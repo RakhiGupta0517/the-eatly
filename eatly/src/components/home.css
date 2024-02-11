@@ -1,0 +1,81 @@
+
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+.main-image {
+    position: relative;
+    color: white;
+    
+}
+.main-image img{
+    background-image: url('../../public/cutburger.jpg');
+    width: 100%;
+    height: 83vh;
+    filter: brightness(230%);
+     
+      }
+      .aboutus{
+        position: absolute;
+       top :14%;
+        right:15%;
+        font-size: 30px;
+        font-weight: 800;
+        font-style: italic;
+        
+      }
+      .aboutus a{
+        color: white; 
+        text-decoration: none;
+      }
+      .aboutus a:hover{
+        color: yellow;
+      }
+      .menu{
+        position: absolute;
+       top :33%;
+        right:4%;
+        font-size: 30px;
+        font-weight: 800;
+        font-style: italic; 
+        
+      }
+      .menu a{
+        color: white; 
+        text-decoration: none;
+      }
+      .menu a:hover{
+        color: yellow;
+      }
+      
+      .franchise{
+        position: absolute;
+        top :46%;
+         right:19%;
+         font-size: 30px;
+         font-weight: 800;
+         font-style: italic;
+
+      }
+      .franchise a{
+        color: white; 
+        text-decoration: none;
+      }
+      .franchise a:hover{
+        color: yellow;
+      }
+      .eatly{
+        position: absolute;
+        /* max-width: 150px; */
+        bottom :20%;
+         left:87%;
+         font-size: 27px;
+         font-weight: 800;
+         /* padding: 10px 20px; */
+         font-style: italic;
+         color: yellow;
+         
+
+      
+
+      }
